@@ -4,6 +4,7 @@ torchvision
 timm
 opencv-python-headless
 gdown
+streamlit-webrtc>=0.45.0
+av
 Pillow
-streamlit-webrtc>=0.40.0   # لو هتستخدم app_webrtc.py (اختياري)
-av                       # for streamlit-webrtc (may be heavy)
+numpy
